@@ -1,0 +1,18 @@
+//Name: Batzorig ID:2016163
+fun main(args: Array<String>) {
+    
+    val eng: Int = 90
+    val his: Int = 80
+    val mus: Int = 80
+    println("Your Grade")
+    
+    println("English "+eng)
+    println("History "+his)
+    println("Music "+mus)
+    
+    val tot = eng + his + mus
+    println("Total "+tot)
+    val ave = Tot / 3
+    println("Average "+ave)
+    
+}
